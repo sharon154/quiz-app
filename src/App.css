@@ -1,0 +1,53 @@
+.App {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.App h1 {
+    color: darkorchid;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.menu, .quiz, .end-screen {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: darkorchid;
+    border-radius: 10px;
+}
+
+.menu button, .quiz button, .end-screen button {
+    background-color: white; /* Background color */
+    color: darkorchid; /* Font color */
+    border: none; /* Remove default border */
+    border-radius: 25px; /* Makes the button rounded */
+    margin: 10px 5px;
+    padding: 10px 20px; /* Padding for top/bottom and left/right */
+    font-size: 20px; /* Increase font size */
+    font-weight: bold; /* Make font bold */
+    text-transform: uppercase; /* Make font uppercase */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: background-color 0.3s, color 0.3s, border 0.3s; /* Smooth transition */
+}
+
+.quiz h1, .end-screen h1 {
+    color: white;
+}
+.menu button:hover, .options button:hover, .quiz button:hover, .end-screen button:hover  {
+    background-color: #f0f0f0;
+    color: blueviolet;
+}
+
+.options button {
+    width: 75%;
+    border-radius: 10px;
+}
+
