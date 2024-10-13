@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Quiz App using ReactJS
+
+## Screenshots
+![Screenshot 1](screenshots/04.png)
+![Screenshot 2](screenshots/01.png)
+![Screenshot 3](screenshots/02.png)
+![Screenshot 4](screenshots/03.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
