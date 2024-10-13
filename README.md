@@ -5,10 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Quiz App using ReactJS
 
 ## Screenshots
-![Screenshot 1](screenshots/04.png)
-![Screenshot 2](screenshots/01.png)
-![Screenshot 3](screenshots/02.png)
-![Screenshot 4](screenshots/03.png)
+<img src="screenshots/04.png" alt="Screenshot 1" width="300" height="200"/>
+<img src="screenshots/01.png" alt="Screenshot 2" width="300" height="200"/>
+<img src="screenshots/02.png" alt="Screenshot 3" width="300" height="200"/>
+<img src="screenshots/03.png" alt="Screenshot 4" width="300" height="200"/>
+
 
 ## Available Scripts
 
